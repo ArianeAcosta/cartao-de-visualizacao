@@ -1,0 +1,1 @@
+Desafio proposto pelo Frontend Mentor. Desenvolvido por Ariane Acosta. Cartão de visualização do blog. Este desafio somente com HTML e CSS é um projeto perfeito para iniciantes que desejam se familiarizar com os fundamentos de HTML e CSS, como a estrutura HTML e o modelo de caixa.
